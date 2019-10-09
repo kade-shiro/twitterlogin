@@ -1,0 +1,65 @@
+.ui.borderless.topmenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  padding-top: 32px;
+  margin-left: 120px;
+  margin-right: -20px;
+}
+
+.ui.borderless.middlemenu.menu {
+  color: white;
+  margin-left: -250px;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: none;
+  border: none;
+  background-image: url("https://marketingland.com/wp-content/ml-loads/2014/07/twitter-logo-small-fade-1920.png");
+  background-size: 4000px;
+  background-repeat: no-repeat;
+  background-position-x: -1350px;
+  background-position-y: -750px;
+  background-attachment: fixed;
+  padding: 300px 100px 262px 250px;
+}
+
+.ui.borderless.middlemenu2.menu {
+  box-shadow: none;
+  margin-right: -100px;
+  border: none;
+  padding: 150px 100px 250px 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer-background {
+  background-color: white;
+  box-shadow: gray;
+  color: lightgray;
+  font-size: 12px;
+  padding-top: 30px1;
+}
+
+ui.label {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+p1 {
+  padding: 10px 10px 10px 150px;
+}
+
+.blue.twitter.icon {
+  padding: 10px 10px 0px 150px;
+}
+
+.login {
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+p2 {
+  font-size: 20px;
+}
+
