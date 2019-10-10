@@ -54,12 +54,16 @@ p1 {
   padding: 10px 10px 0px 150px;
 }
 
-.login {
+.ui.blue.circular.basic.label  {
   margin-bottom: 20px;
   font-size: 15px;
+  width: 30px;
 }
 
 p2 {
   font-size: 20px;
 }
 
+#widthB {
+  width: 20px;
+}
